@@ -53,7 +53,7 @@ An example of a training sentence is shown below:
 
 The number of examples are shown below:
 
-           | Train     | Dev      | Test
+Data Split | Train     | Dev      | Test
 :--------- | --------: | -------: | -------:
 Total      | 23458     | 2367     | 5907
 
